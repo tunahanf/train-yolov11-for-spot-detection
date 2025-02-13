@@ -44,7 +44,7 @@
 <img src="https://github.com/tunahanf/train-yolov11-for-spot-detection/blob/main/img/drop.png" width="500"/> <img src="https://github.com/tunahanf/train-yolov11-for-spot-detection/blob/main/runs/detect/predict/drop.jpg" width="500"/> 
 
 
-While initially intended for macro defect detection in automotive production, this project demonstrates the potential of a custom-trained YOLOv11 model. The results show promise, and future iterations will build on this foundation to achieve the original goal of macro defect detection on automotive parts.
+While initially intended for macro defect detection in automotive production, this project demonstrates the <strong>potential</strong> of a <strong>custom-trained YOLOv11</strong> model. The results <strong>show promise</strong>, and future iterations will build on this foundation to achieve the original goal of macro defect detection on automotive parts.
 
 
 <h2>🔗 References</h2>
